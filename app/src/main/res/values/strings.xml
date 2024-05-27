@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HotspotConfig</string>
+    <string name="tips_text">Please configure your hotspot.</string>
+    <string name="btn_enable">Enable</string>
+    <string name="btn_disable">Disable</string>
+    <string name="security_none">None</string>
+    <string name="security_wpa2psk">WPA2 PSK</string>
+</resources>
