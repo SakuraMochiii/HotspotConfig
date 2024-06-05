@@ -67,7 +67,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
                     et_password.setEnabled(true);
                     starthotspot(null, null, false);
                     Log.d("TAG", "disable hotspot");
-                    Toast.makeText(this, "diable hotspot.", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(this, "disable hotspot.", Toast.LENGTH_SHORT).show();
                 }
                 break;
             case R.id.rb_security_none:
